@@ -1,0 +1,1906 @@
+@media only screen and (min-width: 1201px) and (max-width: 1918px) { 
+    .bg-3{
+        width: 20%;
+    }
+    .bg-4{
+        width: 35%;
+    }
+    .bg-1{
+        width: 10%;
+    }
+    header .lan .language{
+        width: 20px;
+    }
+    header .lan ul li {
+        float: left;
+        padding-left: 3px;
+    }
+    /*Header part ends*/
+    #menu .dropdown-menu {
+        min-width: 150px;
+    }
+    /*********header part ends**********/
+    .icon {
+        position: absolute;
+        right: 14%;
+        top: 75%;
+    }
+    
+    #blue .menu a {
+        font-size: 13px;
+    }
+	/*********blue part ends**********/
+    #popular .button a {
+        background: #106be3;
+        padding: 15px 28px;
+        color: #fff;
+        font-family: poppin_medium;
+        font-size: 14px;
+        border-radius: 5px;
+        margin-top: 12px;
+        position: absolute;
+        right: 47%;
+    }
+    #popular .button a {
+        right: 46%;
+    }
+    #invites .button a {
+        right: 46%;
+    }
+    /*********popular part ends**********/
+    
+    footer .btn.btn-primary.dropdown-toggle.custr {
+        width: 100%;
+    }
+    footer .style ul li {
+        display: inline-block;
+        width: 100%;
+    }
+    footer .dropdown-menu > li > a {
+        border-bottom: 1px solid #dedfdf;
+        padding: 10px 0px 10px 22px;
+        min-width: 100px;
+    }
+    footer .style .caret {
+        margin-left: 9%;
+    }
+    footer .dropdown-menu {
+        left: 10px;
+    }
+    /*********************Site leaders start*************************/
+    #invite_leaders .button a {
+        right: 46%;
+    }
+     #invite_leaders .form-control {
+        margin-top: 20px;
+        width: 78%;
+    }
+    /*********************Site leaders ends*************************/
+    
+
+    /*********************quick start*************************/
+    
+    #popular_links .button a {
+        right: 46%;
+    }
+    #thread_links .preg {
+        margin-top: 24px;
+        margin-left: 37%;
+    }
+    #thread_links .prev {
+        padding: 5px 18px;
+        border-radius: 20px;
+        position: absolute;
+        top: 37%;
+        left: 19%;
+    }
+    /*--thread part ends--*/
+    
+    /*********************quick ends*************************/
+      
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1500px) {
+    #content_leaders .bt-3{
+        width: 33.33%;
+    }
+}
+
+
+/* Large Layout: 1918px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    .border {
+        width: 91%;
+    }
+    .bg-3{
+        width: 20%;
+    }
+    .bg-4{
+        width: 35%;
+    }
+    .bg-1{
+        width: 10%;
+    }
+    header .lan .language{
+        width: 20px;
+    }
+    header .lan ul li {
+        float: left;
+        padding-left: 3px;
+    }
+    /*Header part ends*/
+    #menu .fa-chevron-down {
+        margin-left: 0px;
+    }
+	#menu .dropdown-menu {
+        min-width: 150px;
+    }
+	#menu .fa-chevron-down {
+        margin-left: 24px;
+        margin-right: 10px;
+    }
+    #menu .dropdown-menu {
+        min-width: 150px;
+    }
+	/*Menu part ends*/
+    #popular .button a {
+        font-size: 15px;
+        margin-top: 11px;
+        right: 61%;
+        width: 80%;
+        text-align: center;
+    }
+    #popular .icon {
+        position: absolute;
+        right: 14%;
+        top: 83%;
+    }
+     #invites .button a {
+        font-size: 15px;
+        margin-top: 11px;
+        right: 61%;
+        width: 80%;
+        text-align: center;
+    }
+    .icon {
+        position: absolute;
+        right: 16%;
+        top: 75%;
+    }
+    /*invite part ends*/
+    /*Popular part ends*/
+    .ful{
+        display: none;
+    }
+    .ful2{
+        width: 100%;
+    }
+     #forex .back_bg table h4 {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    #forex .back_bg table h5 {
+        font-size: 12px;
+        padding-bottom: 7px;
+    }
+    #forex .back_bg table h6 {
+        padding: 8px 0px 8px;
+        font-size: 13px;
+    }
+    #forex .back_bg table span {
+        font-size: 12px;
+    }
+    /*forex part ends*/
+    #team .bottom_menu a {
+        font-size: 12px;
+        padding: 0px 17px;
+    }
+    #team .member .down2::after {
+        display: none;
+    }
+   #team .member .down2 .read {
+        right: 23%;
+        margin-top: 20px;
+    }
+    #team .member .down {
+        margin-top: 16px;
+    }
+    #team .member {
+        padding: 20px 20px 80px;
+    }
+    #team .member p {
+        margin-bottom: 20px;
+    }
+    /***********Team part ends*************/
+    #chart .border4 {
+        display: none;
+    }
+     #chart::after {
+        height: 1px;
+        width: 94%;
+        bottom: 5%;
+    }
+    /***********Chart part ends*************/
+    #blue .menu a {
+        line-height: 95px;
+        font-size: 12px;
+        color: #35728b;
+        font-family: poppin_light;
+    }
+    /***********Blue part ends*************/
+    footer .btn.btn-primary.dropdown-toggle.custr {
+        width: 118%;
+    }
+    footer .style ul li {
+        display: inline-block;
+        width: 100%;
+    }
+    footer .dropdown-menu > li > a {
+        color: #565656;
+        font-family: poppin_light;
+        border-bottom: 1px solid #dedfdf;
+        padding: 10px 0px 10px 22px;
+        min-width: 0px;
+    }
+    footer .style .caret {
+        margin-left: 9%;
+    }
+    footer .dropdown-menu {
+        left: 10px;
+    }
+    footer .bottom .copyright_menu ul li a {
+        font-size: 12px;
+        padding: 10px 6px;
+    }
+    
+    /***********footer part ends*************/  
+    
+    
+    
+    
+    /*****Post Start******/
+    #content p {
+        font-size: 11px;
+        color: #324153;
+        font-family: poppin_light;
+        margin-left: 16%;
+        padding: 15px 0px 10px;
+    }
+    #content td h6 {
+        font-size: 11px;
+        position: absolute;
+        left: 72px;
+    }
+    #content td h4 {
+        font-size: 11px;
+        padding-top: 20px;
+    }
+
+    #content td h3 {
+        font-size: 11px;
+        padding: 15px 0px;
+    }
+    #content td h2 {
+        font-size: 11px;
+        padding-top: 35px;
+    }
+    /********************Post Ends**********************/
+    
+    
+    
+    
+    /********************Register Start**********************/
+    #register .connect img {
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    #register .connect img{
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    #register .connect h3 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+     #register .connect h4 {
+        font-size: 14px;
+    }
+    #register .formpage h2 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+    #register .formpage label {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    #register .formpage h5 {
+        font-size: 18px;
+    }
+    #register .formpage img {
+        padding-bottom: 100px;
+        width: 60%;
+    }
+    #register .time .form-control {
+        margin-top: 0px;
+    }
+    #register .additional h5 {
+        font-size: 18px;
+    }
+    #register .additional .warning p {
+        font-size: 12px;
+        padding: 20px;
+    }
+    #register .time h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .time .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .time label {
+        padding: 0px 0px;
+    }
+    #register .time form {
+        margin-bottom: 0px;
+    }
+    #register .email h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .email .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .rules h5 {
+        font-size: 18px;
+        padding: 60px 0px 20px;
+    }
+    #register .rules h6 {
+        font-size: 15px;
+    }
+    #register .details p {
+        font-size: 13px;
+        padding-top: 6px;
+        line-height: 23px;
+    }
+    #register .agree label {
+        font-size: 11px;
+        padding: 10px 0px;
+    }
+    #register .rules a {
+        font-size: 16px;
+        padding: 10px 40px;
+    }
+    #register .formpage p {
+        padding: 15px 10px;
+        font-size: 12px;
+    }
+    /********************Register Ends**********************/
+    
+    
+    
+    
+    /********************Site leader start**********************/
+    #invite_leaders .button a {
+        font-size: 15px;
+        margin-top: 11px;
+        right: 61%;
+        width: 80%;
+        text-align: center;
+    }
+    .icon {
+        position: absolute;
+        right: 16%;
+        top: 75%;
+    }
+    #invite_leaders .button a {
+        font-size: 15px;
+        margin-top: 11px;
+        right: 61%;
+        width: 80%;
+        text-align: center;
+    }
+    #invite_leaders .form-control {
+        margin-top: 20px;
+        width: 70%;
+    }
+    #invite_leaders .title ul li {
+        padding-right: 30px;
+        font-size: 18px;
+    }
+    #invite_leaders .title ul li a::after {
+        width: 110px;
+    }
+    /*invite part ends*/
+    #content_leaders .bt-3{
+        width: 33.33%;
+    }
+    #content_leaders .bt-0{
+        padding-right: 0px;
+    }
+    #content_leaders .step {
+        margin: 15px 15px 0px 0px;
+    }
+    #content_leaders .step.bt0 {
+        margin-right: 0px !important;
+    }
+
+    /********************Site leader ends**********************/
+    
+    
+    
+    
+    
+    /********************Quick start**********************/
+    #popular_links .button a {
+        font-size: 15px;
+        margin-top: 11px;
+        right: 61%;
+        width: 80%;
+        text-align: center;
+    }
+    #popular_links .icon {
+        position: absolute;
+        right: 16%;
+        top: 75%;
+    }
+    /*Popular part ends*/
+    #popular_links .form-control {
+        margin-top: 20px;
+        width: 70%;
+    }
+    #thread_links .preg {
+        margin-top: 24px;
+        margin-left: 25%;
+    }
+    #thread_links .prev {
+        padding: 5px 18px;
+        border-radius: 20px;
+        position: absolute;
+        top: 37%;
+        left: 5%;
+    }
+    /********************Quick ends**********************/
+ 
+    
+    
+}
+
+@media(min-width:768px) and (max-width:991px){
+    header .fanpage ul li a {
+        padding: 7px 6px;
+        font-size: 10px;
+    }
+    header .login a {
+        padding: 5px 13px;
+        font-size: 10px;
+    }
+	header .lan ul li {
+        float: left;
+    }
+    header .lan .language{
+        width: 20px;
+    }
+    /*header part ends*/
+    #menu .img .logo {
+        margin-top: 39px;
+        width: 160px;
+        position: absolute;
+    }
+    #menu .navbar-default .navbar-nav > li > a {
+        color: #fff;
+        font-size: 12px;
+    }
+    #menu .dropdown-menu {
+	    min-width: 135px;
+    }
+    #menu .dropdown-menu > li > a {
+        font-size: 10px;
+    }
+    #menu .fa-chevron-down {
+        margin-left: 24px;
+        margin-right: 15px;
+    }
+    /*Menu part ends*/
+	#popular .toggle .fa-bars {
+        font-size: 30px;
+        color: #e5e6e9;
+    }
+    .toggle {
+        float: right;
+        right: 15px;
+        position: absolute;
+        top: 24px;
+    }
+	#popular .button a {
+        font-size: 14px;
+        margin-top: 12px;
+        right: 59%;
+        width: 78%;
+        padding: 12px;
+        top: 4px;
+        text-align: center;
+    }
+	#popular .toggle::before {
+        top: -24px;
+    }
+    .icon {
+        position: absolute;
+        right: 15%;
+        top: 75%;
+    }
+    /*Popular part ends*/
+    .ful{
+        display: none;
+    }
+    .ful2{
+        width: 100%;
+    }
+    #forex .back_bg table h4 {
+        font-size: 14px;
+        padding: 10px 0px 5px;
+    }
+    #forex .back_bg table h5 {
+        font-size: 10px;
+        padding-bottom: 7px;
+    }
+    #forex .back_bg table h6 {
+        padding: 8px 0px 8px;
+        font-size: 11px;
+    }
+    #forex .back_bg table h3 {
+        font-size: 10px;
+    }
+    #forex .back_bg table span {
+        font-size: 10px;
+    }
+    #forex .back_bg table .fa-bars {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 17px;
+        margin-top: 19px;
+    }
+    #forex .back_bg table .tab{
+        width: 175px;
+    }
+    #forex .toggle::before {
+        top: -24px;
+    }
+    #forex .toggle .fa-bars {
+        font-size: 30px;
+        color: #e5e6e9;
+    }
+    /*forex part ends*/
+    .border {
+        width: 88%;
+        bottom: 11%;
+    }
+    #team .member {
+        padding: 20px 20px 64px;
+        margin-top: 30px;
+    }
+     #team .member .pic img {
+        display: inline-block;
+        padding: 0px 0px 21px;
+    }
+    #team .member h4 {
+	    padding: 18px 0px 12px;
+        font-size: 12px;
+    }
+    #team .member p {
+        font-family: poppin_light;
+        font-size: 10px;
+        color: #a7a9aa;
+        line-height: 18px;
+        text-align: justify;
+        padding-bottom: 0px;
+    }
+    #team .member .down2 .read {
+        font-size: 13px;
+        margin-top: 30px;
+        right: 0%;
+    }
+    #team .member .down .like {
+        font-size: 11px;
+        padding: 11px;
+        position: absolute;
+        left: 38px;
+        top: -13px;
+    }
+    #team .member .down i {
+        font-size: 25px;
+        padding-right: 15px;
+        left: 3px;
+        position: absolute;
+        top: -6px;
+    }
+    #team .member .down2::after {
+        display: none;
+    }
+    #team .bottom_menu a {
+        line-height: 95px;
+        font-size: 10px;
+        font-family: poppin_medium;
+        color: #41708d;
+        padding: 0px 7px;
+    }
+    
+    /**bottom menu part ends**/
+    #statistics .stat_table table h4 {
+        font-size: 10px;
+    }
+    #statistics .stat_table table h5 {
+        font-size: 10px;
+        padding: 30px 0px;
+    }
+    /*statistics part ends*/
+    #current .user h3 {
+        padding: 40px 0px 10px;
+    }
+    #current .user .step .user_pic {
+        padding-top: 20px;
+    }
+    #current .user .step h4 {
+        font-size: 18px;
+        padding: 15px 0px 0px;
+    }
+    #current .user {
+        background: #fff;
+        margin-top: 30px;
+        min-height: 450px;
+    }
+    #current .border2 {
+        margin-top: -70px;
+    }
+    /*current part ends*/
+    #profile .pro_part .details h3 {
+        padding: 40px 0px 15px;
+        font-size: 16px;
+    }
+    #profile .pro_part .details img {
+        padding: 0px 0px 20px;
+        display: inline-block;
+    }
+    #profile .pro_part .details h4 {
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    #profile .pro_part .details a {
+        padding: 9px 35px;
+        font-size: 15px;
+    }
+    #profile .pro_part .details {
+	    height: 400px;
+        background: #fff;
+        margin-top: 50px;
+    }
+    #profile .pro_part .info h5 {
+        font-size: 24px;
+        padding: 50px 0px 27px;
+    }
+    #profile .pro_part .info table h2 {
+        font-size: 15px;
+        padding: 22px 0px;
+    }
+    #profile .pro_part .info table p {
+        font-size: 15px;
+        padding: 20px 0px;
+    }
+    #profile .pro_part .info table tbody td img {
+        padding-top: 6px;
+        height: 30px;
+        margin-top: 12px;
+    }
+    #profile .back {
+        min-height: 500px;
+    }
+    #profile .border3 {
+        height: 1px;
+        margin: 0px 15px;
+        margin-top: -10px;
+    }
+    /*Profile part ends*/
+    #chart .border4 {
+        display: none;
+    }
+    #chart h3 {
+        font-size: 23px;
+        padding: 35px 0px 20px 45px;
+    }
+    #chart::after {
+        content: '';
+        position: absolute;
+        height: 1px;
+        width: 92%;
+        background: #e4e4e5;
+        bottom: 230px;
+        margin: 0px 15px;
+    }
+    #chart .step h4 {
+        padding: 50px 0px 40px;
+    }
+    /*Chart part ends*/
+    #blue .menu{
+        min-height: 70px;
+    }
+    #blue .menu a {
+        line-height: 70px;
+        font-size: 9px;
+    }
+    /*blue part ends*/
+    #present .present_step h3 {
+        font-size: 14px;
+        padding: 7px 0px;
+    }
+    #present .present_step p {
+        font-size: 12px;
+        line-height: 27px;
+        padding-bottom: 0px;
+    }
+    /*present part ends*/
+    footer .btn.btn-primary.dropdown-toggle {
+        padding: 6px 8px !important;
+        margin-left: 2px;
+        font-size: 10px;
+    }
+    footer .style .caret {
+        margin-left: 10%;
+    }
+    footer p {
+        padding: 50px 0px;
+        font-size: 10px;
+    }
+    footer .bottom h5 {
+        font-size: 11px;
+        padding: 40px 0px;
+    }
+    footer .bottom .copyright_menu ul li a {
+        font-size: 9px;
+        padding: 10px 5px;
+    }
+    footer .bottom .copyright_menu ul {
+        padding-top: 30px;
+    }
+    footer .btn.btn-primary.dropdown-toggle.custr {
+        width: 72%;
+    }
+    footer .style ul li {
+        display: inline-block;
+        width: 133px;
+    }
+    footer .dropdown-menu {
+        min-width: 115px;
+    }
+    footer .dropdown-menu > li > a {
+        color: #565656;
+        padding: 5px 10px;
+        min-width: 0px;
+    }
+	/***********Footer part ends*************/
+    
+    
+    /*************Post Start***************/
+    #content p {
+        font-size: 12px;
+        color: #324153;
+        font-family: poppin_light;
+        margin-left: 16%;
+        padding: 15px 0px 10px 12px;
+    }
+    #content td h6 {
+        font-size: 10px;
+        position: absolute;
+        left: 72px;
+    }
+    #content td h4 {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+
+    #content td h3 {
+        font-size: 9px;
+        padding: 15px 0px;
+    }
+    #content td h2 {
+        font-size: 8px;
+        padding-top: 35px;
+    }
+    #content td h6 a {
+        border: 2px solid #5bcc7f;
+        padding: 3px 8px;
+        border-radius: 24px;
+        font-size: 8px;
+        color: #5bcc7f;
+    }
+    /*************Post Ends***************/
+    
+    
+    /*************login start***************/
+    #login .page .title {
+        margin: 50px 0px 0px;
+    }
+    #login .page .title h3::before {
+        top: 10%;
+        left: 8%;
+    }
+    #login .page .form .warning h4 {
+        font-size: 12px;
+        padding: 20px 15px;
+    }
+    #login .page .form .field h5 {
+        padding: 60px 0px;
+    }
+    .form-control {
+        font-size: 14px;
+    }
+    #login .page .form .field .btn.btn-primary {
+        font-size: 18px;
+    }
+    .form-control {
+        margin-top: 25px;
+    }
+    .fa.fa-user {
+        position: absolute;
+        top: 46%;
+        left: 7%;
+        font-size: 20px;
+    }
+    .fa.fa-lock {
+        position: absolute;
+        top: 63%;
+        left: 7%;
+        font-size: 20px;
+    }
+    /*************login ends***************/
+    
+    
+    /*************invite start***************/
+    #invites .toggle .fa-bars {
+        font-size: 30px;
+        color: #e5e6e9;
+    }
+    .toggle {
+        float: right;
+        right: 15px;
+        position: absolute;
+        top: 24px;
+    }
+    #invites .button a {
+        font-size: 14px;
+        margin-top: 12px;
+        right: 59%;
+        width: 78%;
+        padding: 12px;
+        top: 4px;
+        text-align: center;
+    }
+    #invites .toggle::before {
+        top: -24px;
+    }
+    .icon {
+        position: absolute;
+        right: 15%;
+        top: 75%;
+    }
+    /*invite part ends*/
+    #contents p {
+        font-size: 14px;
+        padding: 20px 0px 40px;
+        line-height: 23px;
+    }
+    #contents .title {
+        margin-bottom: 16px;
+    }
+    #contents .field {
+        border: 2px solid #d7d7d7;
+        height: 538px;
+    }
+    /*************invite ends***************/
+    
+    
+    /*************Register Start***************/
+    #register .connect img{
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    #register .connect h3 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+     #register .connect h4 {
+        font-size: 14px;
+    }
+    #register .formpage h2 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+    #register .formpage label {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    #register .formpage h5 {
+        font-size: 18px;
+    }
+    #register .formpage img {
+        padding-bottom: 100px;
+        width: 100%;
+    }
+    #register .additional h5 {
+        font-size: 18px;
+    }
+    #register .additional .warning p {
+        font-size: 12px;
+        padding: 20px;
+    }
+    #register .time h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .time .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .time label {
+        padding: 0px 0px;
+    }
+    #register .time form {
+        margin-bottom: 0px;
+    }
+    #register .email h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .email .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .rules h5 {
+        font-size: 18px;
+        padding: 60px 0px 20px;
+    }
+    #register .rules h6 {
+        font-size: 15px;
+    }
+    #register .details p {
+        font-size: 13px;
+        padding-top: 6px;
+        line-height: 23px;
+    }
+    #register .agree label {
+        font-size: 11px;
+        padding: 10px 0px;
+    }
+    #register .rules a {
+        font-size: 16px;
+        padding: 10px 40px;
+    }
+
+    /*************Register ends***************/
+    
+    
+    /*************Site leaders start***************/
+    #invite_leaders .toggle .fa-bars {
+        font-size: 30px;
+        color: #e5e6e9;
+    }
+    .toggle {
+        float: right;
+        right: 15px;
+        position: absolute;
+        top: 24px;
+    }
+    #invite_leaders .button a {
+        font-size: 14px;
+        margin-top: 12px;
+        right: 59%;
+        width: 78%;
+        padding: 12px;
+        top: 4px;
+        text-align: center;
+    }
+    #invite_leaders .toggle::before {
+        top: -24px;
+    }
+    .icon {
+        position: absolute;
+        right: 15%;
+        top: 75%;
+    }
+    #invite_leaders .toggle .fa-search {
+        font-size: 30px;
+        color: #e5e6e9;
+        padding-top: 0px;
+    }
+	#invite_leaders .button a {
+        font-size: 14px;
+        margin-top: 12px;
+        right: 59%;
+        width: 78%;
+        padding: 12px;
+        top: 4px;
+        text-align: center;
+    }
+    #invite_leaders .title ul li {
+        padding-right: 10px;
+        font-size: 11px;
+    }
+    #invite_leaders .title ul li a::after {
+        width: 70px;
+    }
+    /*invite part ends*/
+    #content_leaders p {
+        font-size: 14px;
+        padding: 20px 0px 200px;
+        line-height: 23px;
+    }
+    #content_leaders .title {
+        margin-bottom: 16px;
+    }
+    #content_leaders .bt-3{
+        width: 33.33%;
+    }
+    
+    #content_leaders .step {
+        margin: 15px 15px 0px 0px;
+    }
+    #content_leaders .step.bt0 {
+        margin-right: 0px !important;
+    }
+
+    /*************Site leaders ends***************/
+    
+    
+    
+    /*************Quick start***************/
+    #popular_links p {
+        margin-right: 28px;
+        font-size: 16px;
+        font-family: poppin_medium;
+        color: #106be3;
+        padding: 0px 0px;
+        text-align: right;
+        position: absolute;
+        top: 23%;
+        right: -6px;
+    }
+	#popular_links .toggle .fa-search {
+        font-size: 30px;
+        color: #e5e6e9;
+        padding-top: 0px;
+    }
+    #popular_links .toggle {
+        float: right;
+        right: 15px;
+        position: absolute;
+        top: 24px;
+    }
+	#popular_links .button a {
+        font-size: 14px;
+        margin-top: 12px;
+        right: 59%;
+        width: 78%;
+        padding: 12px;
+        top: 4px;
+        text-align: center;
+    }
+	#popular_links .toggle::before {
+        top: -24px;
+    }
+    #popular_links .icon {
+        position: absolute;
+        right: 15%;
+        top: 75%;
+    }
+    /*Popular part ends*/
+    #thread_links .preg {
+        margin-top: 24px;
+        margin-left: 16%;
+    }
+    #thread_links p {
+        font-size: 12px;
+        text-align: left;
+    }
+    #thread_links .preg .list {
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        text-align: center;
+        float: left;
+        border-radius: 50%;
+        background: #dddddd;
+        margin-right: 1px;
+    }
+    #thread_links .prev {
+        padding: 5px 18px;
+        border-radius: 20px;
+        position: absolute;
+        top: 37%;
+        left: -6%;
+    }
+    /*************Quick ends***************/
+    
+    
+    
+    /*************Search start***************/
+    #content_search p {
+        font-size: 14px;
+        padding: 20px 0px 40px;
+        line-height: 23px;
+    }
+    #content_search .title {
+        margin-bottom: 16px;
+    }
+
+    /***content part ends***/
+    #content_search form label {
+        font-size: 13px;
+    }
+    /*************Search ends***************/
+    
+    
+}
+ /*Tablet part ends*/   
+
+@media(min-width:320px) and (max-width:767px){
+    .ful{
+        display: none;
+    }
+    body{
+        background: #eaeff3;
+    }
+     header {
+        min-height: 35px;
+    }
+    header h3 {
+        padding: 10px 0px 0px;
+        font-size: 13px;
+    }
+    header .help span {
+        padding: 0px 5px;
+    }
+    header .lan ul {
+        margin-top: 6px;
+    }
+    header .lan {
+        right: 0;
+        position: absolute;
+    }
+    header .lan ul li a span {
+        font-size: 13px;
+        margin-right: 15px;
+    }
+    header .lan ul {
+        line-height: 24px;
+    }
+    /*header part ends*/
+	#bs-example-navbar-collapse-1 {
+		margin-top: 0px;
+    }
+    #menu .navbar{
+        background: rgb(117,187,161);
+        background: -webkit-linear-gradient(5deg, rgba(117,187,161,1) 0%, rgba(21,124,123,1) 100%);
+        background: -o-linear-gradient(5deg, rgba(117,187,161,1) 0%, rgba(21,124,123,1) 100%);
+        background: linear-gradient(85deg, rgba(117,187,161,1) 0%, rgba(21,124,123,1) 100%); 
+    }
+    .navbar-toggle {
+        float: left;
+        margin-left: 14px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: none;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: none;
+    }
+    #menu .logo{
+        padding: 0px 15px;
+        margin-bottom: 30px;
+        display: inline-block;
+    }
+    
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+        width: 25px;
+    }
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        color: #fff;
+        background-color: transparent;
+    }
+    #menu.fa.fa-chevron-right {
+        color: #fff;
+    }
+    #menu.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+       border: none !important;
+    }
+    /*menu part ends*/
+    #popular .title h3 {
+        font-size: 16px;
+        padding: 30px 0px 25px 5px;
+    }
+    #popular .title h3::before {
+        left: 3px;
+    }
+    #popular .toggle .fa-bars {
+        font-size: 32px;
+    }
+     #popular .title h3 {
+        font-size: 16px;
+        padding: 11px 0px 0px 5px;
+    }
+    
+    #popular .title {
+        background: transparent;
+    }
+    #popular .back {
+        background: #fff;
+        min-height: 21px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #popular .back {
+        background: #fff;
+        min-height: 42px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #popular .title h3::before {
+        width: 3px;
+        height: 33px;
+        top: 5px;
+        left: 4px;
+    }
+    #forex .title p {
+        padding: 30px 0px 10px;
+    }
+    .icon {
+        position: absolute;
+        right: 15%;
+        top: 75%;
+    }
+    #popular .part h4 {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+    #popular .part h5 {
+        padding-bottom: 29px;
+    }
+    /***********Popular part ends*************/
+    #forex .back_bg table h4 {
+        font-size: 12px;
+        padding: 15px 0px 5px;
+    }
+    #forex .back_bg table h5 {
+        font-size: 10px;
+    }
+    #forex .back_bg table p {
+        font-size: 12px;
+    }
+    #forex .back_bg table h6 {
+        font-size: 12px;
+    }
+    #forex .back_bg table h3 {
+        font-size: 12px;
+    }
+    #forex .back_bg table span {
+        font-size: 12px;
+    }
+    
+    /***********Forex part ends*************/
+    .border{
+        display: none;
+    }
+    #team .member .down2::after {
+        display: none;
+    }
+    #team .member .down2 .read {
+        font-size: 13px;
+    }
+    #team .bottom_menu a {
+        line-height: 17px;
+        font-size: 11px;
+        padding: 0px 10px;
+        text-align: left;
+        display: block;
+    }
+    #team .bottom_menu span {
+        display: none;
+    }
+    #team .back {
+        background: #fff;
+        margin-top: 30px;
+        min-height: 60px;
+        padding: 8px 0px;
+    }
+    /***********team part ends*************/
+    #statistics .title p .line {
+        display: none;
+    }
+    #statistics .title p {
+	    padding: 25px 0px;
+    }
+    #statistics .title .angle .fa-chevron-down {
+        color: #a6a6a6;
+        position: absolute;
+        top: 37%;
+        right: 7%;
+        font-size: 18px;
+    }
+    /***********statistics part ends*************/
+    #current .user h3 {
+        font-size: 23px;
+        padding: 25px 0px 2px;
+    }
+    #current .user .step .user_pic {
+        padding-top: 15px;
+    }
+    #current .user .step h4 {
+        font-size: 22px;
+        padding: 25px 0px 20px;
+    }
+    #current .border2 {
+        margin-top: -5px;
+    }
+    /***********Current part ends*************/
+    #profile .pro_part .details {
+        height: 480px;
+        background: #fff;
+        margin: 0px;
+        margin-top: 60px;
+    }
+    #profile .pro_part .details h3 {
+        padding: 27px 0px 35px;
+        font-size: 23px;
+    }
+    #profile .pro_part .info h5 {
+        font-size: 23px;
+        padding: 28px 0px 15px;
+    }
+    #profile .pro_part .info table h2 {
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    #profile .pro_part .info table p {
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    .table-responsive {
+        border: none;
+    }
+    #profile .back {
+        min-height: 900px;
+    }
+    #profile .border3 {
+        margin-top: -17px;
+    }
+    #profile .pro_part .info table tbody td img {
+        padding-top: 12px;
+        margin-left: 11px;
+    }
+    /***********Profile part ends*************/
+    #chart .step h4 {
+        padding: 20px 0px 32px;
+        color: #324153;
+        font-family: poppin_medium;
+    }
+    #chart h3 {
+        font-size: 25px;
+        padding: 0px 0px 20px 16px;
+    }
+    #chart::after {
+        display: none;
+    }
+    /***********Chart part ends*************/
+    #blue .menu a {
+        line-height: 40px;
+        font-size: 15px;
+    }
+    /***********Blue part ends*************/
+    #present .present_step h3 {
+        font-size: 14px;
+        padding: 7px 0px;
+    }
+    #present .present_step p {
+        font-size: 12px;
+        line-height: 27px;
+        padding-bottom: 0px;
+    }
+    /***********Present part ends*************/
+    footer .style {
+        padding: 10px 0px;
+        width: 100%;
+        text-align: center;
+    }
+    footer p {
+        padding: 12px 0px;
+        font-size: 13px;
+        text-align: center;
+    }
+    footer .bottom h5 {
+        font-size: 14px;
+        padding: 20px 0px 30px;
+        text-align: center;
+    }
+    footer .btn.btn-primary.dropdown-toggle {
+        border-radius: 50px;
+        background: none;
+        border: 1px solid #fff;
+        font-size: 14px;
+    }
+    footer .bottom .copyright_menu ul {
+        padding-top: 0px;
+        position: relative;
+        right: 0px;
+        margin-bottom: 30px;
+    }
+    footer .bottom .copyright_menu ul li {
+        float: none;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    footer .bottom .copyright_menu ul li a{
+        font-size: 14px;
+    }
+    /***********Footer part ends*************/
+    
+
+    /*****************Post Start********************/
+    #content p {
+        font-size: 11px;
+        color: #324153;
+        font-family: poppin_light;
+        margin-left: 13%;
+        padding: 15px 23px 10px 12px;
+        margin-top: -20%;
+    }
+    #content td h6 {
+        font-size: 10px;
+        position: absolute;
+        left: 72px;
+    }
+    #content td h4 {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+
+    #content td h3 {
+        font-size: 9px;
+        padding: 15px 0px;
+    }
+    #content td h2 {
+        font-size: 8px;
+        color: #0788ff;
+        font-family: poppin_medium;
+        padding-top: 35px;
+    }
+    #content td h6 a {
+        border: 2px solid #5bcc7f;
+        padding: 3px 8px;
+        border-radius: 24px;
+        font-size: 8px;
+        color: #5bcc7f;
+    }
+    #content td h6 {
+        font-family: poppin_light;
+        font-size: 10px;
+        color: #324153;
+        position: relative;
+        left: 20%;
+    }
+    #content .icon {
+        position: absolute;
+        margin-top: 15px;
+        position: relative;
+    }
+    /*****************Post Ends********************/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /*****************login start********************/
+    #login .page .title {
+        margin: 30px 0px 0px;
+    }
+    #login .page .form .warning h4 {
+        font-size: 12px;
+        padding: 20px 15px;
+        text-align: justify;
+    }
+    #login .page .form .field h5 {
+        padding: 30px 0px 4px;
+    }
+    .form-control {
+        font-size: 14px;
+    }
+    #login .page .form .field .btn.btn-primary {
+        margin-bottom: 43px;
+    }
+    #login .page{
+        min-height: 0px;
+    }
+   #login .page .title h3::before {
+       display: none;
+    }
+    #login .page .title h3 {
+        color: #324153;
+        font-size: 18px;
+        font-family: poppin_medium;
+        font-weight: 600;
+        padding: 32px 0px 25px 45px;
+    }
+    #login .page .form .warning {
+        margin: 0px 15px;
+    }
+    #login .page .form .field .btn.btn-primary {
+        font-size: 15px;
+    }
+    .fa.fa-user {
+        position: absolute;
+        top: 27%;
+        left: 9%;
+        font-size: 20px;
+    }
+    .fa.fa-lock {
+        position: absolute;
+        top: 47%;
+        left: 9%;
+        font-size: 20px;
+    }
+    .form-control {
+        text-align: center;
+    }
+    /*****************login ends********************/
+    
+    
+    
+    
+    /*****************invite start********************/
+    #invites .title h3 {
+        font-size: 16px;
+        padding: 30px 0px 25px 5px;
+    }
+    #invites .title h3::before {
+        left: 3px;
+    }
+    #invites .toggle .fa-bars {
+        font-size: 32px;
+    }
+    #invites .title h3 {
+        font-size: 16px;
+        padding: 11px 0px 0px 5px;
+    }
+
+    #invites .title {
+        background: transparent;
+    }
+    #invites .back {
+        background: #fff;
+        min-height: 21px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #invites .back {
+        background: #fff;
+        min-height: 42px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #invites .title h3::before {
+        width: 3px;
+        height: 33px;
+        top: 5px;
+        left: 4px;
+    }
+    /**************************/
+    #contents p {
+        font-size: 12px;
+        padding: 15px 0px 25px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    #contents .title {
+        margin-bottom: 20px;
+    }
+    #contents .field .submit {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    #contents .field {
+        border: 2px solid #d7d7d7;
+        height: 538px;
+    }
+    
+    /*****************invite ends********************/
+    
+    
+    /*****************Register start********************/
+    #register .connect {
+        border-right: none;
+    }
+    #register .additional label {
+        text-align: center;
+    }
+    #register .connect img{
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    #register .connect h3 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+     #register .connect h4 {
+        font-size: 14px;
+    }
+    #register .formpage h2 {
+        font-size: 18px;
+        padding: 40px 0px 20px;
+    }
+    #register .formpage label {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    #register .formpage h5 {
+        font-size: 18px;
+    }
+    #register .formpage img {
+        padding-bottom: 100px;
+        width: 100%;
+    }
+    #register .additional h5 {
+        font-size: 18px;
+    }
+    #register .additional .warning p {
+        font-size: 12px;
+        padding: 20px;
+    }
+    #register .time h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .time .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .time label {
+        padding: 0px 0px;
+        text-align: center;
+        font-size: 12px;
+    }
+    #register .email label {
+        padding: 10px 0px;
+    }
+    #register .details {
+        padding: 15px;
+        background: #f7f8f8;
+        text-align: justify;
+    }
+    #register .time form {
+        margin-bottom: 0px;
+    }
+    #register .email h5 {
+        font-size: 18px;
+        padding: 30px 0px 30px;
+    }
+    #register .email .warning p {
+        font-size: 12px;
+        padding: 15px;
+    }
+    #register .rules h5 {
+        font-size: 18px;
+        padding: 60px 0px 20px;
+    }
+    #register .rules h6 {
+        font-size: 15px;
+    }
+    #register .details p {
+        font-size: 13px;
+        padding-top: 6px;
+        line-height: 23px;
+    }
+    #register .agree label {
+        font-size: 11px;
+        padding: 10px 0px;
+    }
+    #register .rules a {
+        font-size: 10px;
+        padding: 10px 13px;
+    }
+    #register .agree {
+        background: #eff0f1;
+        padding: 5px 10px;
+        margin-bottom: 50px;
+    }
+    #register .rules .form-check {
+        display: inline-grid;
+    }
+    #register .button {
+        margin-bottom: 0px;
+    }
+    #register .bg {
+        padding-bottom: 12%;
+    }
+
+    /*****************Register ends********************/
+    
+    
+    
+    
+    /*****************Site leaders start********************/
+    #invite_leaders .title h3 {
+        font-size: 16px;
+        padding: 30px 0px 25px 5px;
+    }
+    #invite_leaders .title h3::before {
+        left: 3px;
+    }
+    #invite_leaders .toggle .fa-bars {
+        font-size: 32px;
+    }
+    #invite_leaders .title h3 {
+        font-size: 16px;
+        padding: 11px 0px 0px 5px;
+    }
+
+    #invite_leaders .title {
+        background: transparent;
+    }
+    #invite_leaders .back {
+        background: #fff;
+        min-height: 21px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #invite_leaders .back {
+        background: #fff;
+        min-height: 42px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        height: 126px;
+    }
+    #invite_leaders .title h3::before {
+        width: 3px;
+        height: 33px;
+        top: 5px;
+        left: 4px;
+    }
+    #invite_leaders .title ul li {
+        float: none;
+        font-size: 14px;
+        color: #464647;
+    }
+    #invite_leaders .title ul {
+        line-height: 30px;
+    }
+    #invite_leaders .title ul li a::after {
+        width: 90px;
+        left: 15px;
+        top: 26px;
+    }
+    /***invite part ends***/
+    #content_leaders .rows {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    #content_leaders .bg {
+        background: none;
+        padding-bottom: 0px;
+    }
+    #content_leaders p {
+        font-size: 12px;
+        padding: 15px 0px 150px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    #content_leaders .title {
+        margin-bottom: 20px;
+    }
+    #content_leaders .step {
+        margin: 15px 0px 0px 0px;
+    }
+    
+    /*****************Site leaders ends********************/
+
+    
+    
+    /*****************Quick start********************/
+    #popular_links .title h3 {
+        font-size: 16px;
+        padding: 30px 0px 25px 5px;
+    }
+    #popular_links .title h3::before {
+        left: 3px;
+    }
+    #popular_links .toggle .fa-bars {
+        font-size: 32px;
+    }
+    /*popular part ends*/
+    #thread_links .back {
+        background: #fff;
+        height: 260px;
+    }
+    #thread_links .title {
+        text-align: center;
+    }
+    #thread_links p {
+        text-align: center;
+    }
+    #thread_links .preg {
+        margin-top: 24px;
+        margin-left: 0px;
+        display: inline-flex;
+    }
+   #thread_links .nxt {
+        padding: 2px 4px;
+        top: 84%;
+        right: 2%;
+    }
+    #thread_links .prev {
+        padding: 2px 4px;
+        top: 84%;
+        left: 2%;
+    }
+    #thread_links .preg .list {
+        text-align: center;
+        float: left;
+        margin-right: 2px;
+    }
+    /*****************Quick ends********************/
+    
+    
+    
+    
+    
+    /*****************Search start********************/
+    #popular_search .title ul li {
+        float: left;
+        margin-top: 10px;
+        margin-right: 30px;
+    }
+    #popular_search .title ul li a {
+        font-size: 15px;
+    }
+    #popular_search .title ul li a::after {
+        display: none;
+    }
+    /***********Popular part ends*************/
+    #content_search .bg{
+        padding-bottom: 50px;
+    }
+    #content_search p {
+        font-size: 16px;
+        padding: 15px 0px 15px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    #content_search .title {
+        margin-bottom: 20px;
+    }
+    #content_search .field .submit {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    #content_search h4 {
+        padding: 30px 0px 0px;
+    }
+    #content_search form .frm-btn {
+        padding: 10px 20px;
+        font-size: 12px;
+    } 
+    /*****************Search ends********************/
+
+}
